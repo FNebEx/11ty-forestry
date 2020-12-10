@@ -2,13 +2,13 @@
 label: Herp
 hide_body: false
 fields:
-- name: img
-  type: file
-  config:
-    maxSize: 64
-  label: Image
 - name: layout
   type: text
   config:
     required: false
   label: Layout
+- name: img
+  type: file
+  config:
+    maxSize: 64
+  label: Image
