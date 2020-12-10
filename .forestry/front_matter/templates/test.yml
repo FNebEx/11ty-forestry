@@ -18,3 +18,5 @@ fields:
   config:
     required: false
   label: Image
+pages:
+- ass.liquid
